@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/236x/2c/59/cc/2c59cc48b6a1ff50c6d264de83d23e27.jpg)
+![](file:///C:/Users/vimal/OneDrive/Desktop/github%20banner.png)
 ## Hey, Im Vimal 👋
 ___
 
