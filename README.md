@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/b0/71/85/b07185dca908fa4ec3c019326dcb0806.jpg)
+![](https://i.pinimg.com/originals/b0/71/85/b07185dca908fa4ec3c019326dcb0806.jpg)<br>
 <img src="https://komarev.com/ghpvc/?username=vimall03&label=Profile%20views&color=0e75b6&style=flat" alt="profile visits" />
 ## About me
 - 🔭 I’m a 2nd year CSE student at VIT university
