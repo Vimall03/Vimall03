@@ -1,7 +1,7 @@
-### Hi there 👋
 
 ### Hi there 👋, I'm Vimal
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+___
 
 - 🔭 I’m a 2nd year CSE student at VIT university
 - 🌱 I’m currently learning  Open Source Software Development Methods 
