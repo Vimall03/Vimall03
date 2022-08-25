@@ -1,7 +1,5 @@
-![](file:///C:/Users/vimal/OneDrive/Desktop/github%20banner.png)
-## Hey, Im Vimal 👋
-___
-
+![](https://i.pinimg.com/originals/b0/71/85/b07185dca908fa4ec3c019326dcb0806.jpg)
+## About me
 - 🔭 I’m a 2nd year CSE student at VIT university
 - 🌱 I’m currently learning  Open Source Software Development Methods 
 - ⚡ My interests are Programing, problem solving & UI design. 
