@@ -1,4 +1,4 @@
-![](https://www.canva.com/design/DAFKWPC4xvI/vNaDtzOOfWo0sZv0KFiMvQ/view?utm_content=DAFKWPC4xvI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![](https://i.pinimg.com/236x/2c/59/cc/2c59cc48b6a1ff50c6d264de83d23e27.jpg)
 ## Hey, Im Vimal 👋
 ___
 
