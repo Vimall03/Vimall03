@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=vimall03&label=Profile%20views&color=0e75b6&style=flat" alt="profile visits" />
 ## About me
 
-- 🔭 I’m a 2nd year CSE student at VIT university
+- 🔭 A 2nd year CSE student at VIT university
 - 🌱 I’m currently learning  Open Source Software Development Methods 
 - ⚡ My interests are Programing, problem solving & UI design. 
 
