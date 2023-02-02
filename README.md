@@ -3,7 +3,7 @@
 ## About me
 
 - 🔭 A 2nd year CSE student at VIT university
-- 🌱 I’m currently learning  Open Source Software Development Methods 
+- 🌱 I’m currently learning PHP and web development. 
 - ⚡ My interests are Programing, problem solving & UI design. 
 
 ___
