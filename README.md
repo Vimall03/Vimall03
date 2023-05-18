@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=vimall03&label=Profile%20views&color=0e75b6&style=flat" alt="profile visits" />
 ## About me
 
-- 🔭 A 3nd year CSE student at VIT university
+- 🔭 A 3rd year CSE student at VIT university
 - 🌱 I’m currently learning PHP and web development. 
 - ⚡ My interests are Programing, Problem solving & UI design. 
 - 🔥 I am focusing on strengthening my DSA knowledge using C++.
