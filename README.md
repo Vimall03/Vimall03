@@ -2,17 +2,29 @@
 <img src="https://komarev.com/ghpvc/?username=vimall03&label=Profile%20views&color=0e75b6&style=flat" alt="profile visits" />
 ## About me
 
-- 🔭 A 2nd year CSE student at VIT university
+- 🔭 A 3nd year CSE student at VIT university
 - 🌱 I’m currently learning PHP and web development. 
-- ⚡ My interests are Programing, problem solving & UI design. 
+- ⚡ My interests are Programing, Problem solving & UI design. 
+- 🔥 I am focusing on strengthening my DSA knowledge using C++.
 
-___
-## Tools & Languages
 
-<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='' height='30'><img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' alt='' height='30'>  <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black' alt='' height='30'> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <img src='https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black'>
 
-___
+## Skills & Technologies
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## Tools
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
 ## Contact Me 
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vimal030503/)
