@@ -30,4 +30,5 @@
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vimall03/)
 
 <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vimall03)](https://git.io/streak-stats)
 <br>
