@@ -1,33 +1,54 @@
-![](https://i.pinimg.com/originals/b0/71/85/b07185dca908fa4ec3c019326dcb0806.jpg)<br>
-<img src="https://komarev.com/ghpvc/?username=vimall03&label=Profile%20views&color=0e75b6&style=flat" alt="profile visits" />
+<!-- Header -->
+![](https://github.com/Vimall03/temp/blob/main/banner.png)<br>
+<img src="https://komarev.com/ghpvc/?username=vimall03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visits" />
 ## About me
+<!-- Introduction -->
 
-- 🔭 A 3rd year CSE student at VIT university
-- 🌱 I’m currently learning PHP and web development. 
-- ⚡ My interests are Programing, Problem solving & UI design. 
-- 🔥 I am focusing on strengthening my DSA knowledge using C++.
-
-
-
-## Skills & Technologies
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 🔭 I'm a software engineer with a strong background in JavaScript, MERN, MySQL, C++, Python, Flask, and PHP.
+- 📚 I'm pursuing a B.Tech degree from Vellore Institute of Technology
+- 🎐 I hold certifications in AWS Cloud Practitioner and Applied ML, showing my commitment to learning. 
+- 🔥 I've completed impactful projects in full-stack development and data analysis. 
+- 🎧 I'm active in hackathons and open-source projects and enjoy music production and in my free time.
 
 
-## Tools
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+<!-- Skills -->
+<h3 >⚡ Skills:</h3>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,mongodb,php" />
+  </a>
+</p>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,nodejs,express,py,mysql,cpp," />
+  </a>
+</p>
 
-## Contact Me 
+<h3 >🛠️ Tools & Technologies:</h3>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,devto,figma" />
+  </a>
+</p>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind," />
+  </a>
+</p>
+<!-- Stats -->
+<!-- <h3 >🔥Stats:</h3>
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=vimall03&show_icons=true&theme=radical"/>
+</p> -->
+<h3>📞 Contact me:</h3>
+<p>
+  <a href="https://linktr.ee/vimall03">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram" />
+  </a>
+</p>
 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vimall03/)
+<!-- Acknowledgements -->
+<p >
+  <em>Special thanks to all the mentors, colleagues, and the open-source community for their support and inspiration.</em>
+</p>
 
-<br>
-<br>
