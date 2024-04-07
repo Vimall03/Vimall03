@@ -1,5 +1,5 @@
 <!-- Header -->
-![](https://github.com/Vimall03/temp/blob/main/banner.png)<br>
+![](https://github.com/Vimall03/Portfolio-Template/blob/main/banner.png)<br>
 <img src="https://komarev.com/ghpvc/?username=vimall03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visits" />
 ## About me
 <!-- Introduction -->
