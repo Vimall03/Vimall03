@@ -15,31 +15,34 @@
 <h3 >⚡ Skills:</h3>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,mongodb,php" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,mongodb,php,nodejs,express,py" />
   </a>
 </p>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,express,py,mysql,cpp," />
+    <img src="https://skillicons.dev/icons?i=mysql,cpp," />
   </a>
 </p>
 
 <h3 >🛠️ Tools & Technologies:</h3>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,devto,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,devto,figma,bootstrap,tailwind," />
   </a>
 </p>
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind," />
-  </a>
-</p>
+
 <!-- Stats -->
 <!-- <h3 >🔥Stats:</h3>
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=vimall03&show_icons=true&theme=radical"/>
 </p> -->
+
+<h3 align="left">🌐 GSSoC'24:</h3>
+<div style="display: flex; gap: 10px;">
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="Explorer Badge" width="100" height="100">
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" alt="Adventurer Badge" width="100" height="100">
+</div>
+
 <h3>📞 Contact me:</h3>
 <p>
   <a href="https://linktr.ee/vimall03">
