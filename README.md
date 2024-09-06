@@ -1,6 +1,12 @@
 <!-- Header -->
 ![](https://github.com/Vimall03/Portfolio-Template/blob/main/banner.png)<br>
+<!--
 <img src="https://komarev.com/ghpvc/?username=vimall03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visits" />
+-->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vimall03/count.svg" />
+</p>
 ## About me
 <!-- Introduction -->
 
