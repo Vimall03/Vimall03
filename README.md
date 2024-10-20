@@ -56,6 +56,7 @@
     <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="level1 badge" width="100" height="100">
     <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" alt="level2 badge" width="100" height="100">
     <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" alt="level3 badge" width="100" height="100">
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" alt="level4 badge" width="100" height="100">
   </a>
 </div> 
 
