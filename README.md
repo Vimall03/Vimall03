@@ -47,10 +47,10 @@
 <h3>🌐 Open Source Achievements:  </h3>
 
 <div>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
+<!--   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
     <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="Explorer Badge" width="100" height="100">
     <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" alt="Adventurer Badge" width="100" height="100">
-  </a>
+  </a> -->
   <a href="https://holopin.me/vimalll03">
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeHF4eTUwNDMzMDhqc3k3bXp1NmlwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="" width="100" height="100">
     <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="level1 badge" width="100" height="100">
