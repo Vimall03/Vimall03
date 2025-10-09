@@ -64,7 +64,7 @@
 <h3>📞 Contact me:</h3>
 <p>
   <a href="https://linktr.ee/vimall03">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram" />
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
   </a>
 </p>
 
