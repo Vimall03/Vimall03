@@ -32,6 +32,7 @@
   </a>
 </p>
 
+<!--- 
 ### 🌐 Open Source Achievements
 <div>
   <a href="https://holopin.me/vimalll03">
@@ -42,6 +43,7 @@
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" alt="level4 badge" width="100" height="100">
   </a>
 </div> 
+-->
 
 ### 📞 Contact me
 <p>
